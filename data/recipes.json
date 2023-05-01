@@ -1,0 +1,328 @@
+[
+  {
+    "chef_id": 1,
+    "recipe_name": "Beef Wellington",
+    "image": "https://images-gmi-pmc.edge-generalmills.com/a04c1d24-129b-47e7-b52c-22e6d916184c.jpg",
+    "ingredients": [
+      "Beef fillet",
+      "Puff pastry",
+      "Mushrooms",
+      "Prosciutto",
+      "English mustard",
+      "Egg yolks"
+    ],
+    "cooking_method": "1. Sear the beef fillet, then set aside to cool. \n2. Sauté mushrooms with garlic and thyme, then chill in fridge. \n3. Roll out the puff pastry and assemble the beef, mushroom mixture and prosciutto on top. \n4. Brush with English mustard, then bake in the oven. \n5. Let rest for 5 minutes before slicing and serving.",
+    "rating": 4.8
+  },
+
+  {
+    "chef_id": 1,
+    "recipe_name": "Shepherd's Pie",
+    "images": "https://www.chelseasmessyapron.com/wp-content/uploads/2018/09/Shepherds-Pie5.jpg",
+    "ingredients": [
+      "Ground lamb",
+      "Carrots",
+      "Onion",
+      "Frozen peas",
+      "Beef stock",
+      "Worcestershire sauce",
+      "Potatoes",
+      "Butter",
+      "Milk"
+    ],
+    "cooking_method": "1. Cook the ground lamb, then remove from pan. \n2. Sauté carrots, onions and frozen peas in the same pan. \n3. Add the lamb back in, along with beef stock and Worcestershire sauce. \n4. Simmer until thickened, then pour into a baking dish. \n5. Top with mashed potatoes made with butter and milk. \n6. Bake until golden brown.",
+    "rating": 4.5
+  },
+
+  {
+    "chef_id": 1,
+    "recipe_name": "Sticky Toffee Pudding",
+    "images": "https://www.gordonramsay.com/assets/Uploads/_resampled/CroppedFocusedImage108081050-50-Toffee-beauty-1.jpg",
+    "ingredients": [
+      "Dates",
+      "Boiling water",
+      "Baking soda",
+      "Butter",
+      "Brown sugar",
+      "Eggs",
+      "Flour",
+      "Baking powder",
+      "Salt",
+      "Heavy cream",
+      "Vanilla extract",
+      "Dark rum"
+    ],
+    "cooking_method": "1. Soak dates in boiling water with baking soda, then blend into a puree. \n2. Cream butter and brown sugar together, then mix in eggs and date puree. \n3. Sift in flour, baking powder, and salt, and mix until smooth. \n4. Pour into a baking dish and bake until set. \n5. For the toffee sauce, simmer cream, brown sugar, butter, vanilla extract and dark rum. \n6. Serve the pudding with the toffee sauce poured over the top.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 2,
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "400g spaghetti",
+      "6 rashers of pancetta or smoked streaky bacon",
+      "4 large free-range egg yolks",
+      "100g Parmesan cheese",
+      "1 clove of garlic",
+      "Salt (to taste)",
+      "Pepper (to taste)"
+    ],
+    "cooking_method": "Cook spaghetti according to package instructions.In a separate pan, fry the pancetta/bacon until crispy.Whisk egg yolks and Parmesan cheese together.Add garlic to the pancetta/bacon pan and cook for 1 minute.Add cooked spaghetti to the pan and stir well.Remove the pan from the heat and pour in the egg and cheese mixture, stirring quickly.Add salt and pepper to taste.Serve immediately",
+
+    "rating": 4.8
+  },
+  {
+    "chef_id": 2,
+    "recipe_name": "Moroccan Lamb Chops",
+    "ingredients": [
+      "4 lamb chops",
+      "2 tbsp ras el hanout spice mix",
+      "1 tbsp olive oil",
+      "1 lemon",
+      "Salt (to taste)",
+      "Pepper (to taste)",
+      "Mint leaves (to garnish)"
+    ],
+    "cooking_method": [
+      "Rub the lamb chops with ras el hanout spice mix, olive oil, salt, and pepper.Grill the lamb chops for 3-4 minutes on each side.Squeeze lemon juice over the lamb chops before serving.Garnish with mint leaves.Serve immediately"
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 2,
+    "recipe_name": "Baked Cod",
+    "ingredients": [
+      "4 cod fillets",
+      "2 lemons",
+      "4 garlic cloves",
+      "2 tbsp olive oil",
+      "2 tbsp chopped parsley",
+      "Salt (to taste)",
+      "Pepper (to taste)"
+    ],
+    "cooking_method": [
+      "Preheat oven to 200°C/gas mark 6/400°F.Place the cod fillets in a baking dish.Squeeze lemon juice over the fillets.Finely grate garlic over the fillets.Drizzle olive oil over the fillets.Season with salt and pepper.Bake in the oven for 12-15 minutes, or until cooked through.Sprinkle chopped parsley over the fillets before serving.Serve immediately"
+    ],
+    "rating": 4.2
+  },
+  {
+    "chef_id": 3,
+    "recipe_name": "Lemon Polenta Cake",
+    "image": "https://www.nigella.com/assets/uploads/recipes/public-thumbnail/lemon-polenta-cake-563a6559b0fb7.jpg",
+    "ingredients": [
+      "225g unsalted butter",
+      "225g caster sugar",
+      "3 large eggs",
+      "Zest of 2 lemons",
+      "Juice of 1 lemon",
+      "200g ground almonds",
+      "100g fine polenta",
+      "1.5 tsp baking powder"
+    ],
+    "cooking_method": "Preheat the oven to 180°C/gas mark 4/350°F. Cream 225g of unsalted butter and 225g of caster sugar together until pale and fluffy. Beat in 3 large eggs, one at a time, and then fold in the zest of 2 lemons, the juice of 1 lemon, 200g of ground almonds, 100g of fine polenta, and 1.5 tsp of baking powder. Spoon the mixture into a greased 23cm springform cake tin and smooth the top. Bake for 40-45 minutes or until a skewer inserted into the middle of the cake comes out clean. Allow to cool in the tin for 10 minutes before removing to a wire rack. Serve at room temperature.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 3,
+    "recipe_name": "Chicken Teriyaki",
+    "image": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Teriyaki-Chicken-plate.jpg",
+    "ingredients": [
+      "4 skinless, boneless chicken breasts",
+      "1/2 cup soy sauce",
+      "1/4 cup mirin",
+      "2 tbsp sake",
+      "2 tbsp brown sugar",
+      "1 tsp sesame oil",
+      "1 inch piece of ginger",
+      "2 cloves of garlic"
+    ],
+    "cooking_method": "Preheat a grill pan over medium-high heat. In a small saucepan, combine 1/2 cup of soy sauce, 1/4 cup of mirin, 2 tbsp of sake, 2 tbsp of brown sugar, 1 tsp of sesame oil, 1 inch piece of peeled and grated ginger, and 2 cloves of minced garlic. Bring the mixture to a boil and then reduce the heat and simmer for 10-15 minutes, until the sauce thickens. Season the chicken breasts with salt and pepper, and then grill for 6-7 minutes on each side, or until cooked through. Brush the chicken with the teriyaki sauce and grill for another 30 seconds on each side. Serve with steamed rice and vegetables.",
+    "rating": 4.2
+  },
+  {
+    "chef_id": 3,
+    "recipe_name": "Flourless Chocolate Brownies",
+    "image": "https://eatwithclarity.com/wp-content/uploads/2021/01/flourless-brownies-2.jpg",
+    "ingredients": [
+      "200g dark chocolate",
+      "200g unsalted butter",
+      "250g caster sugar",
+      "3 large eggs",
+      "75g cocoa powder",
+      "1 tsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "cooking_method": "Preheat the oven to 180°C/160°C Fan/gas mark 4/350ºF. Melt 200g of dark chocolate and 200g of unsalted butter together in a heatproof bowl over a pan of simmering water. Add 250g of caster sugar and stir to combine. Beat 3 large eggs together in a separate bowl and then add them to the chocolate mixture, whisking until smooth. Add 75g of cocoa powder, 1 tsp of vanilla extract, and a pinch of salt, and whisk again until smooth. Pour the mixture into a greased and lined 23cm square baking tin and bake for 25-30 minutes. Once cooked, leave to cool before cutting into squares. The brownies can be served warm or cold.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Perfect Fish and Chips",
+    "image": "https://www.tastingtable.com/img/gallery/classic-british-fish-and-chips-recipe/intro-1670356962.jpg",
+    "ingredients": [
+      "4 large floury potatoes",
+      "1L sunflower oil",
+      "300g plain flour",
+      "150g cornflour",
+      "1 tsp bicarbonate of soda",
+      "330ml chilled sparkling water",
+      "600g haddock fillets",
+      "Salt and pepper"
+    ],
+    "cooking_method": "Preheat the oven to 180°C/160°C Fan/gas mark 4/350ºF. Peel and cut 4 large floury potatoes into chips and rinse in cold water to remove excess starch. Heat 1L of sunflower oil in a deep frying pan or fryer to 130°C. Fry the chips for 5-6 minutes until soft but not browned, then remove and set aside to drain. In a separate bowl, mix together 300g of plain flour, 150g of cornflour, 1 tsp of bicarbonate of soda, and a pinch of salt. Add 330ml of chilled sparkling water and whisk until the batter is smooth. Dip 600g of haddock fillets into the batter and fry in the hot oil for 3-4 minutes until golden brown and cooked through. Drain on kitchen paper and season with salt and pepper. Serve with the chips and tartar sauce.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Beef and Mushroom Pie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Apple_pie.jpg/1200px-Apple_pie.jpg",
+    "ingredients": [
+      "1 kg beef shin, trimmed and cut into large chunks",
+      "3 tbsp vegetable oil",
+      "1 onion, diced",
+      "2 garlic cloves, crushed",
+      "1 tbsp tomato purée",
+      "500ml beef stock",
+      "200g button mushrooms, sliced",
+      "2 tbsp cornflour",
+      "2 tbsp water",
+      "375g puff pastry",
+      "1 egg, beaten",
+      "Salt and pepper"
+    ],
+    "cooking_method": "Preheat the oven to 180°C/160°C Fan/gas mark 4/350ºF. Heat 3 tbsp of vegetable oil in a casserole dish over medium heat. Add 1 diced onion and 2 crushed garlic cloves and cook until softened. Add 1 kg of beef shin and brown all over. Stir in 1 tbsp of tomato purée and pour in 500ml of beef stock. Add 200g of sliced button mushrooms and bring to a simmer. Cover and cook in the oven for 2.5-3 hours, or until the meat is tender. Mix 2 tbsp of cornflour with 2 tbsp of water to make a paste, then stir into the casserole to thicken the sauce. Increase the oven temperature to 200°C/180°C Fan/gas mark 6/400ºF. Roll out 375g of puff pastry and cut out a lid to fit the casserole. Brush the rim of the dish with beaten egg and place the pastry lid on top. Brush the pastry with more beaten egg and bake for 20-25 minutes until the pastry is golden brown. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 4,
+    "recipe_name": "Slow-Cooked Beef Short Ribs",
+    "image": "https://sundaysuppermovement.com/wp-content/uploads/2020/05/beef-short-ribs-recipe-1.jpg",
+    "ingredients": [
+      "4 beef short ribs",
+      "50g butter",
+      "2 onions",
+      "2 carrots",
+      "2 celery stalks",
+      "2 garlic cloves",
+      "2 bay leaves",
+      "2 thyme sprigs",
+      "500ml beef stock",
+      "500ml red wine",
+      "Sea salt (to taste)",
+      "Black pepper (to taste)"
+    ],
+    "cooking_method": "Preheat the oven to 120°C/250°F/Gas Mark 1/2. Season 4 beef short ribs with sea salt and black pepper. Melt 50g of butter in a large casserole dish over a medium heat. Add 2 roughly chopped onions, 2 roughly chopped carrots, 2 roughly chopped celery stalks, and 2 crushed garlic cloves. Cook until softened. Add 2 bay leaves and 2 thyme sprigs, and cook for a further minute. Pour in 500ml of beef stock and 500ml of red wine, and bring to the boil. Add the beef short ribs to the casserole dish, making sure they are completely covered by the liquid. Cover the dish with a tight-fitting lid and place it in the oven. Cook for 5-6 hours, until the meat is tender and falling off the bone. Serve the short ribs with the vegetables and cooking liquid.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 5,
+    "recipe_name": "Classic Victoria Sponge Cake",
+    "image": "https://i0.wp.com/www.boskitchen.com/wp-content/uploads/2022/01/victoriaspongefull.jpg?resize=819%2C1024&ssl=1",
+    "ingredients": [
+      "225g self-raising flour",
+      "225g caster sugar",
+      "225g unsalted butter",
+      "4 large free-range eggs",
+      "2 tbsp milk",
+      "1 tsp vanilla extract",
+      "150ml double cream",
+      "5 tbsp raspberry jam",
+      "Icing sugar (for dusting)"
+    ],
+    "cooking_method": "Preheat the oven to 180°C/350°F/Gas Mark 4. Grease and line two 20cm sandwich tins. Sift 225g of self-raising flour into a bowl. Add 225g of caster sugar, 225g of unsalted butter, 4 large free-range eggs, 2 tbsp of milk, and 1 tsp of vanilla extract. Beat the mixture until smooth. Divide the mixture between the prepared tins and smooth the surface. Bake for 25-30 minutes, until golden brown and springy to the touch. Allow the cakes to cool in the tins for 5 minutes, then turn them out onto a wire rack to cool completely. Whip 150ml of double cream until it holds its shape. Spread 5 tbsp of raspberry jam over one of the cakes, then top with the whipped cream. Place the other cake on top and dust with icing sugar.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 5,
+    "recipe_name": "Beef Bourguignon",
+    "image": "https://images-gmi-pmc.edge-generalmills.com/42fb4d81-8d92-40e2-9f0a-524edce5ca74.jpg",
+    "ingredients": [
+      "1kg braising steak",
+      "100g smoked bacon",
+      "4 garlic cloves",
+      "2 large onions",
+      "2 large carrots",
+      "2 celery sticks",
+      "250g button mushrooms",
+      "750ml red wine",
+      "750ml beef stock",
+      "2 tbsp tomato purée",
+      "2 tbsp plain flour",
+      "2 bay leaves",
+      "2 sprigs of thyme",
+      "50g unsalted butter",
+      "2 tbsp vegetable oil",
+      "Sea salt (to taste)",
+      "Black pepper (to taste)"
+    ],
+    "cooking_method": "Preheat the oven to 170°C/325°F/Gas Mark 3. Cut 1kg of braising steak into 2.5cm pieces. Chop 100g of smoked bacon, 4 garlic cloves, 2 large onions, 2 large carrots, and 2 celery sticks. Slice 250g of button mushrooms. Heat 2 tbsp of vegetable oil in a large casserole dish over a high heat. Add the bacon and beef and cook until browned. Remove the beef from the casserole and set aside. Add the vegetables to the casserole and cook until softened. Add 2 tbsp of plain flour and cook for a further minute. Pour in 750ml of red wine and 750ml of beef stock, then add 2 tbsp of tomato purée, 2 bay leaves, and 2 sprigs of thyme. Bring to the boil, then add the beef and any juices. Season with sea salt and black pepper. Cover the casserole with a lid and place it in the oven. Cook for 3-4 hours, until the beef is tender. Serve with mashed potatoes or crusty bread.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 5,
+    "recipe_name": "Roast Chicken with Lemon and Herbs",
+    "image": "https://simply-delicious-food.com/wp-content/uploads/2019/05/lemon-herb-grilled-chicken-breast-3-500x500.jpg",
+    "ingredients": [
+      "1.8kg whole chicken",
+      "50g softened butter",
+      "1 unwaxed lemon",
+      "3 garlic cloves",
+      "Small bunch of fresh thyme",
+      "Sea salt (to taste)",
+      "Black pepper (to taste)"
+    ],
+    "cooking_method": "Preheat the oven to 190°C/375°F/Gas Mark 5. Rinse a 1.8kg whole chicken and pat it dry with kitchen paper. Season the cavity with sea salt and black pepper. Mix 50g of softened butter with the finely grated zest of 1 unwaxed lemon and the chopped leaves from a small bunch of fresh thyme. Carefully lift the skin of the chicken away from the flesh, and spread the butter mixture over the meat, pushing it down evenly. Cut the zested lemon into quarters and put it inside the chicken, along with 3 crushed garlic cloves and a few more thyme sprigs. Truss the chicken and put it in a roasting tin. Roast in the oven for 1 hour and 20 minutes, or until the juices run clear when the thickest part of the thigh is pierced with a skewer. Remove the chicken from the tin and leave to rest for 15 minutes before carving.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 6,
+    "recipe_name": "Flourless Chocolate Brownies",
+    "image": "https://eatwithclarity.com/wp-content/uploads/2021/01/flourless-brownies-2.jpg",
+    "ingredients": [
+      "200g dark chocolate",
+      "200g unsalted butter",
+      "250g caster sugar",
+      "3 large eggs",
+      "75g cocoa powder",
+      "1 tsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "cooking_method": "Preheat the oven to 180°C/160°C Fan/gas mark 4/350ºF. Melt 200g of dark chocolate and 200g of unsalted butter together in a heatproof bowl over a pan of simmering water. Add 250g of caster sugar and stir to combine. Beat 3 large eggs together in a separate bowl and then add them to the chocolate mixture, whisking until smooth. Add 75g of cocoa powder, 1 tsp of vanilla extract, and a pinch of salt, and whisk again until smooth. Pour the mixture into a greased and lined 23cm square baking tin and bake for 25-30 minutes. Once cooked, leave to cool before cutting into squares. The brownies can be served warm or cold.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 6,
+    "recipe_name": "Moroccan Lamb Chops",
+    "ingredients": [
+      "4 lamb chops",
+      "2 tbsp ras el hanout spice mix",
+      "1 tbsp olive oil",
+      "1 lemon",
+      "Salt (to taste)",
+      "Pepper (to taste)",
+      "Mint leaves (to garnish)"
+    ],
+    "cooking_method": [
+      "Rub the lamb chops with ras el hanout spice mix, olive oil, salt, and pepper.Grill the lamb chops for 3-4 minutes on each side.Squeeze lemon juice over the lamb chops before serving.Garnish with mint leaves.Serve immediately"
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 6,
+    "recipe_name": "Shepherd's Pie",
+    "images": "https://www.chelseasmessyapron.com/wp-content/uploads/2018/09/Shepherds-Pie5.jpg",
+    "ingredients": [
+      "Ground lamb",
+      "Carrots",
+      "Onion",
+      "Frozen peas",
+      "Beef stock",
+      "Worcestershire sauce",
+      "Potatoes",
+      "Butter",
+      "Milk"
+    ],
+    "cooking_method": "1. Cook the ground lamb, then remove from pan. \n2. Sauté carrots, onions and frozen peas in the same pan. \n3. Add the lamb back in, along with beef stock and Worcestershire sauce. \n4. Simmer until thickened, then pour into a baking dish. \n5. Top with mashed potatoes made with butter and milk. \n6. Bake until golden brown.",
+    "rating": 4.5
+  }
+]

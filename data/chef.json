@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "chef_id": 1,
+    "image": "https://parade.com/.image/t_share/MTkwNTc4MTE4NTMyMDE1OTk2/gordonramsay_kitchenmaster-ftr.jpg",
+    "name": "Gordon Ramsay",
+    "description": "Gordon Ramsay is a British chef, restaurateur, and television personality born on November 8, 1966 in Johnstone, Scotland. He has been active in the culinary industry since 1985 and is known for his fiery personality and demanding standards in the kitchen. Ramsay has owned and operated several notable restaurants, including Restaurant Gordon Ramsay, Pétrus, Gordon Ramsay at Claridge's, and The Savoy Grill. He has received numerous awards and accolades throughout his career, including 16 Michelin stars. In addition to his work in the kitchen, Ramsay has also appeared on several television shows, including Hell's Kitchen, MasterChef, and Kitchen Nightmares, among others.",
+    "years_of_experience": 30,
+    "num_recipes": 200,
+    "num_likes": 15000
+  },
+  {
+    "id": 2,
+    "chef_id": 2,
+    "image": "https://www.outlookindia.com/traveller/wp-content/uploads/files/2015/03/091015143231-JAMIE.ITALIAN.0300.jpg",
+    "name": "Jamie Oliver",
+
+    "description": "Jamie Oliver is a British chef, restaurateur, and television personality born on May 27, 1975 in Clavering, England. He began his culinary career as a pastry chef before becoming the head chef at the River Cafe in London. Oliver rose to fame with his television show The Naked Chef, which aired from 1999 to 2001. Since then, he has hosted numerous cooking shows and specials, including Jamie's Kitchen, Jamie's School Dinners, and Jamie's 15 Minute Meals, among others. In addition to his work on television, Oliver has authored several cookbooks and has been an advocate for healthy eating and food education, particularly for children. He has also been involved in various philanthropic efforts, including the Jamie Oliver Food Foundation, which aims to promote food education and combat childhood obesity.",
+
+    "years_of_experience": 25,
+    "num_recipes": 150,
+    "num_likes": 10000
+  },
+  {
+    "id": 3,
+    "chef_id": 3,
+    "image": "https://pbs.twimg.com/profile_images/1493693969825423365/pqVtK9q0_400x400.jpg",
+    "name": "Nigella Lawson",
+
+    "description": "Nigella Lawson is a British food writer, chef, and television personality born on January 6, 1960 in London, England. She began her career as a book reviewer and restaurant critic before publishing her first cookbook, How to Eat, in 1998. Since then, she has authored several more cookbooks, including Nigella Bites, Feast, and Simply Nigella. Lawson has also hosted several cooking shows, including Nigella Bites, Nigella Feasts, and Nigella Express. In addition to her work in the kitchen, Lawson has been an advocate for body positivity and has spoken openly about her struggles with body image and eating disorders. She has also been involved in various philanthropic efforts, including supporting the UK charity Refuge, which helps women and children affected by domestic violence.",
+
+    "years_of_experience": 20,
+    "num_recipes": 100,
+    "num_likes": 9000
+  },
+  {
+    "id": 4,
+    "chef_id": 4,
+    "image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/Heston-Blumenthal.jpg?itok=0saTM-Dl",
+    "name": "Heston Blumenthal",
+
+    "description": "Heston Blumenthal is a British chef, restaurateur, and television personality born on May 27, 1966 in London, England. He is known for his experimental approach to cooking and for his use of scientific principles in the kitchen. Blumenthal is the owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, England, as well as several other restaurants. He has authored several cookbooks, including The Fat Duck Cookbook and Historic Heston, which explore his unique culinary style. Blumenthal has also hosted several television shows, including Heston's Feasts and Heston's Great British Food, among others. In addition to his work in the kitchen, he has been involved in various philanthropic efforts, including supporting the UK charity Hospitality Action, which helps people in the hospitality industry who are in need.",
+
+    "years_of_experience": 25,
+    "num_recipes": 300,
+    "num_likes": 12000
+  },
+  {
+    "id": 5,
+    "chef_id": 5,
+    "image": "https://www.hachette.co.uk/wp-content/uploads/2019/04/contributor-delia-smith-1.jpg",
+    "name": "Delia Smith",
+
+    "description": "Delia Smith is a British cook, television presenter, and author born on June 18, 1941 in Woking, England. She is known for her practical and simple approach to cooking, as well as her focus on traditional British cuisine. Smith has authored numerous cookbooks, including How to Cook, Delia's Complete Cookery Course, and Delia's Happy Christmas, among others. She has also hosted several cooking shows, including Delia's How to Cook and Delia's Classic Christmas, among others. In addition to her work in the kitchen, Smith has been involved in various philanthropic efforts, including supporting the UK charity Crisis, which helps people facing homelessness. In 2009, she was awarded a CBE for her contributions to cookery and in 2017, she was made a member of the Order of the Companions of Honour for her services to cooking and cookery books.",
+
+    "years_of_experience": 40,
+    "num_recipes": 250,
+    "num_likes": 11000
+  },
+  {
+    "id": 6,
+    "chef_id": 6,
+    "image": "https://i2-prod.birminghammail.co.uk/incoming/article22617354.ece/ALTERNATES/s1200c/2_james-martin.jpg",
+    "name": "James Martin",
+
+    "description": "James Martin is a British chef, television presenter, and author born on June 30, 1972 in Malton, England. He is known for his expertise in traditional British cuisine and for his focus on using locally sourced ingredients. Martin has hosted several cooking shows, including Saturday Kitchen, James Martin's Food Map of Britain, and James Martin's French Adventure, among others. He has also authored several cookbooks, including James Martin's Great British Adventure and James Martin's Islands to Highlands. In addition to his work in the kitchen, Martin is an accomplished racing driver and has competed in several high-profile motorsports events, including the British Touring Car Championship. He has also been involved in various philanthropic efforts, including supporting the UK charity Children in Need.",
+
+    "years_of_experience": 15,
+    "num_recipes": 80,
+    "num_likes": 5000
+  }
+]
