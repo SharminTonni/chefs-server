@@ -17,6 +17,12 @@ app.get("/chefs", (req, res) => {
 
 app.get("/chefs/:id", (req, res) => {
   const id = req.params.id;
+  const chef = chefs.find((chef) => chef.id == id);
+  res.send(chef);
+});
+
+app.get("/recipes/:id", (req, res) => {
+  const id = req.params.id;
   const selectedRecipes = recipes.filter((recipe) => recipe.chef_id == id);
   res.send(selectedRecipes);
 });
