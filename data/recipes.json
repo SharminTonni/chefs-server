@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "chef_id": 1,
     "recipe_name": "Beef Wellington",
     "image": "https://images-gmi-pmc.edge-generalmills.com/a04c1d24-129b-47e7-b52c-22e6d916184c.jpg",
@@ -15,6 +16,7 @@
   },
 
   {
+    "id": 2,
     "chef_id": 1,
     "recipe_name": "Shepherd's Pie",
     "image": "https://www.chelseasmessyapron.com/wp-content/uploads/2018/09/Shepherds-Pie5.jpg",
@@ -30,6 +32,7 @@
   },
 
   {
+    "id": 3,
     "chef_id": 1,
     "recipe_name": "Sticky Toffee Pudding",
     "image": "https://www.gordonramsay.com/assets/Uploads/_resampled/CroppedFocusedImage108081050-50-Toffee-beauty-1.jpg",
@@ -45,6 +48,7 @@
     "rating": 4.7
   },
   {
+    "id": 4,
     "chef_id": 2,
     "recipe_name": "Spaghetti Carbonara",
     "image": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2626edit.jpg",
@@ -60,6 +64,7 @@
     "rating": 4.8
   },
   {
+    "id": 5,
     "chef_id": 2,
     "recipe_name": "Moroccan Lamb Chops",
     "image": "https://img.sunset02.com/sites/default/files/image/recipes/su/08/06/lamb-chops-su-653438-x.jpg",
@@ -76,6 +81,7 @@
     "rating": 4.5
   },
   {
+    "id": 6,
     "chef_id": 2,
     "recipe_name": "Baked Cod",
     "image": "https://healthyrecipesblogs.com/wp-content/uploads/2014/01/baked-cod-featured-2021.jpg",
@@ -91,6 +97,7 @@
     "rating": 4.2
   },
   {
+    "id": 7,
     "chef_id": 3,
     "recipe_name": "Lemon Polenta Cake",
     "image": "https://www.nigella.com/assets/uploads/recipes/public-thumbnail/lemon-polenta-cake-563a6559b0fb7.jpg",
@@ -105,6 +112,7 @@
     "rating": 4.5
   },
   {
+    "id": 8,
     "chef_id": 3,
     "recipe_name": "Chicken Teriyaki",
     "image": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Teriyaki-Chicken-plate.jpg",
@@ -119,6 +127,7 @@
     "rating": 4.2
   },
   {
+    "id": 9,
     "chef_id": 3,
     "recipe_name": "Flourless Chocolate Brownies",
     "image": "https://eatwithclarity.com/wp-content/uploads/2021/01/flourless-brownies-2.jpg",
@@ -133,6 +142,7 @@
     "rating": 4.6
   },
   {
+    "id": 10,
     "chef_id": 4,
     "recipe_name": "Perfect Fish and Chips",
     "image": "https://www.tastingtable.com/img/gallery/classic-british-fish-and-chips-recipe/intro-1670356962.jpg",
@@ -147,6 +157,7 @@
     "rating": 4.9
   },
   {
+    "id": 11,
     "chef_id": 4,
     "recipe_name": "Beef and Mushroom Pie",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Apple_pie.jpg/1200px-Apple_pie.jpg",
@@ -161,6 +172,7 @@
     "rating": 4.7
   },
   {
+    "id": 12,
     "chef_id": 4,
     "recipe_name": "Slow-Cooked Beef Short Ribs",
     "image": "https://sundaysuppermovement.com/wp-content/uploads/2020/05/beef-short-ribs-recipe-1.jpg",
@@ -175,6 +187,7 @@
     "rating": 4.8
   },
   {
+    "id": 13,
     "chef_id": 5,
     "recipe_name": "Classic Victoria Sponge Cake",
     "image": "https://i0.wp.com/www.boskitchen.com/wp-content/uploads/2022/01/victoriaspongefull.jpg?resize=819%2C1024&ssl=1",
@@ -189,6 +202,7 @@
     "rating": 4.7
   },
   {
+    "id": 14,
     "chef_id": 5,
     "recipe_name": "Beef Bourguignon",
     "image": "https://images-gmi-pmc.edge-generalmills.com/42fb4d81-8d92-40e2-9f0a-524edce5ca74.jpg",
@@ -203,6 +217,7 @@
     "rating": 4.9
   },
   {
+    "id": 15,
     "chef_id": 5,
     "recipe_name": "Roast Chicken with Lemon and Herbs",
     "image": "https://simply-delicious-food.com/wp-content/uploads/2019/05/lemon-herb-grilled-chicken-breast-3-500x500.jpg",
@@ -217,6 +232,7 @@
     "rating": 4.7
   },
   {
+    "id": 16,
     "chef_id": 6,
     "recipe_name": "Flour-less Chocolate Brownies",
     "image": "https://eatwithclarity.com/wp-content/uploads/2021/01/flourless-brownies-2.jpg",
@@ -231,6 +247,7 @@
     "rating": 4.6
   },
   {
+    "id": 17,
     "chef_id": 6,
     "recipe_name": "Moroccan Lamb Chops",
     "image": "https://img.sunset02.com/sites/default/files/image/recipes/su/08/06/lamb-chops-su-653438-x.jpg",
@@ -247,6 +264,7 @@
     "rating": 4.5
   },
   {
+    "id": 18,
     "chef_id": 6,
     "recipe_name": "Shepherd's Pie",
     "image": "https://www.chelseasmessyapron.com/wp-content/uploads/2018/09/Shepherds-Pie5.jpg",
