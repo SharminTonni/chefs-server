@@ -21,6 +21,10 @@ app.get("/chefs/:id", (req, res) => {
   res.send(chef);
 });
 
+app.get("/recipes", (req, res) => {
+  res.send(recipes);
+});
+
 app.get("/recipes/:id", (req, res) => {
   const id = req.params.id;
   const selectedRecipes = recipes.filter((recipe) => recipe.chef_id == id);
