@@ -10,6 +10,7 @@ const recipes = require("./data/recipes.json");
 app.get("/", (req, res) => {
   res.send("chef server is running");
 });
+// comment
 
 app.get("/chefs", (req, res) => {
   res.send(chefs);
@@ -32,5 +33,5 @@ app.get("/recipes/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`listening on ${port}`);
+  console.log(`listening on chef's server ${port}`);
 });
